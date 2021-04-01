@@ -11,3 +11,7 @@ One of the state governments introduced the new scholarship program to help the 
 ### Workflow
 
 ![alt text](https://github.com/ShanmugaSivapragasam/scholarship-program/blob/main/sholarship-workflow.png)
+
+
+### Architecture
+![alt text](https://github.com/ShanmugaSivapragasam/scholarship-program/blob/main/ArchitectureDiagram.png)
