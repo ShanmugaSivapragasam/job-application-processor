@@ -7,3 +7,7 @@ One of the state governments introduced the new scholarship program to help the 
 ### Few key points to consider
   - The school has 50k kids, so max of 50,000 applications will be submitted to the program. 
   - Since this is the one time program, this application will be scrapped after all the applications are processedLow cost will be highly encouraged
+
+### Workflow
+
+![alt text](https://github.com/ShanmugaSivapragasam/scholarship-program/blob/main/sholarship-workflow.png)
